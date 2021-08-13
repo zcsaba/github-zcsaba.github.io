@@ -33,20 +33,16 @@ a:active {
   display: flex;
   flex-direction: row;
   width: auto;
-  #background-color: green;
 }
 div {
   width: 80%;
-  #margin: auto;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 18px;
-  #background-color: yellow;
 }
 header {
   width: 20%;
   height: 250px;
   padding: 20px;
-  #margin: auto;
   background-image: url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
   background-size: cover;
   background-position: 50% 50%;
